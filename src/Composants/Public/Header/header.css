@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding: 0 2rem;
+    height: 60px;
+    background-color: cadetblue;
+    color: white;
+    border-bottom: 1px solid black;
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+ul li{
+    display: inline-block;
+    margin-right: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
